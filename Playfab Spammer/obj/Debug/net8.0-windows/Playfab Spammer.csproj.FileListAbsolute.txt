@@ -1,0 +1,9 @@
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\Playfab Spammer_MarkupCompile.cache
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\Playfab Spammer.g.resources
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\Playfab Spammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\Playfab Spammer.AssemblyInfoInputs.cache
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\Playfab Spammer.AssemblyInfo.cs
+C:\Users\dxrkalfie\source\repos\Playfab Spammer\Playfab Spammer\obj\Debug\net8.0-windows\Playfab Spammer.csproj.CoreCompileInputs.cache

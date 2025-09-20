@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4HjAim6Y/E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dxrkalfie\\source\\repos\\Playfab Spammer\\Playfab Spammer\\Playfab Spammer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dxrkalfie\\.nuget\\packages\\playfaballsdk\\1.205.250718\\playfaballsdk.1.205.250718.nupkg.sha512",
+    "C:\\Users\\dxrkalfie\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
